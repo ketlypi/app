@@ -1,0 +1,1 @@
+This is an executable application made using the tkinter library. It is a prototype made during my internship at Tribunal Regional Eleitoral da Bahia whose objective was to capture responses from management units and replace the simultaneous editing of responses via Excel, which generated a database with incorrect or missing data.
